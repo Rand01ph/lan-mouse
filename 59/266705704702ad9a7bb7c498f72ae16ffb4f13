@@ -1,0 +1,35 @@
+tests/wayland-recovery/run.py
+  s_50c4d5f2c0a231::t_5e29c7984879eb 1-5,7-32,35,37-59
+  s_50c4d5f2c0a231::t_1cb99279f0b8bc 6,33-34,36
+README.md
+  s_50c4d5f2c0a231::t_5e29c7984879eb 34-38
+tests/wayland-recovery/README.md
+  s_50c4d5f2c0a231::t_5e29c7984879eb 1-21
+input-emulation/src/lib.rs
+  s_50c4d5f2c0a231::t_494fa9732ad82f 241-298
+  s_50c4d5f2c0a231::t_76463edbb565ef 299-323
+input-emulation/src/error.rs
+  s_50c4d5f2c0a231::t_cd345a3c595c38 23-25,41-51
+input-emulation/src/wlroots.rs
+  s_50c4d5f2c0a231::t_045984db4a6868 10,56-101,184-187,192,199,205
+src/emulation.rs
+  s_50c4d5f2c0a231::t_105bf4c9f49cd6 10,195-201,328,330-331,337-355,433-470,511-615
+tests/wayland-recovery/proxy.py
+  s_50c4d5f2c0a231::t_d70a30ff7f3fc2 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59266705704702ad9a7bb7c498f72ae16ffb4f13",
+  "prompts": {},
+  "sessions": {
+    "s_50c4d5f2c0a231": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11f1d-18f4-7780-9f41-1e2030f396d8",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
